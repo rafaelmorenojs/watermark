@@ -16,12 +16,12 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "rafaelmorenojs\\Watermark\\": "src"
+            "rafaelmorenojs\\Watermark\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "rafaelmorenojs\\Watermark\\Tests\\": "tests"
+            "rafaelmorenojs\\Watermark\\Tests\\": "tests/"
         }
     },
     "extra": {

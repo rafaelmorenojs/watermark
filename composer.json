@@ -23,5 +23,15 @@
         "psr-4": {
             "rafaelmorenojs\\Watermark\\Tests\\": "tests"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "rafaelmorenojs\\watermark\\Laravel\\WatermarkServiceProvider"
+            ],
+            "aliases": {
+                "Watermark": "rafaelmorenojs\\watermark\\Laravel\\WatermarkFacade"
+            }
+        }
     }
 }

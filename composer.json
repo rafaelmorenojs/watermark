@@ -27,10 +27,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "rafaelmorenojs\\watermark\\Laravel\\WatermarkServiceProvider"
+                "rafaelmorenojs\\Watermark\\Laravel\\WatermarkServiceProvider"
             ],
             "aliases": {
-                "Watermark": "rafaelmorenojs\\watermark\\Laravel\\WatermarkFacade"
+                "Watermark": "rafaelmorenojs\\Watermark\\Laravel\\WatermarkFacade"
             }
         }
     }

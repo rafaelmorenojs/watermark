@@ -1,6 +1,6 @@
 <?php
 
-namespace rafaelmorenojs\watermark\Laravel;
+namespace rafaelmorenojs\Watermark\Laravel;
 
 use Illuminate\Support\Facades\Facade;
 
